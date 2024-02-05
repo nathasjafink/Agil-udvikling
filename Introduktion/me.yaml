@@ -2,8 +2,9 @@ name: Nathasja
 age: 22
 isBreathing: true
 occupation: 
- - student 
- - steward
+ - Student 
+ - Steward
+ - Cashier
 hobbies: 
- - coding
- - football
+ - Coding
+ - Football
