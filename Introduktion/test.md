@@ -6,7 +6,9 @@
 
  **bfrwiuefuwo**
 
-    <p> Hey med dig <\p>
+```js
+<p> Hey med dig <\p>
+```
 
 ### This is a image
 
