@@ -7,7 +7,7 @@
  **bfrwiuefuwo**
 
 ```js
-<p> Hey med dig <\p>
+<p> Hey med dig </p>
 ```
 
 ### This is a image
